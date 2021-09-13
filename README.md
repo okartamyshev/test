@@ -12,3 +12,4 @@ If you'd like to quote someone, use the > character before the line:
 > - Captain Janeway
 
 - test change with global git user
+- second test change with local user configuration
